@@ -6,7 +6,7 @@ Recopilación y análisis de largos registros de observaciones hidro-meteorológ
 ## INTEGRANTES:
   - [x] Sebastián Serantes
   - [x] Diana Fonnegra
-  - [x] Florencia Balbuena  
+
   
 
 ## **Requerimientos - Librerías necesarias:**
